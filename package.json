@@ -5,12 +5,8 @@
   "description": "Clear CD jewel case 3D WebGL viewer & interactive audio player",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "start": "npx serve .",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^6.0.0"
+    "build": "node build.cjs",
+    "start": "npx serve dist",
+    "dev": "node test_server.cjs"
   }
 }
