@@ -10,8 +10,8 @@ A high-fidelity 3D WebGL CD jewel case interactive audio player built with Three
 - **Iridescent Disc Shader**: Custom diffraction grating shader producing realistic rainbow reflections across the disc surface that animate as the disc spins or turns.
 - **Dynamic Case Opening**: Click the case lid or press `O` to swing the jewel case open with realistic hinge constraints.
 - **Disc Rotation**: Toggle spinning with `S` or via the dock controls.
-- **17 Curated Audio Tracks**: Synchronized with high-resolution artwork, narrative notes, quotes, scrub bar, and live track timing.
-- **Dock Thumbnail Rail**: Interactive glassmorphic carousel showing all 17 albums with tilt angles and playing progress bars.
+- **14 Curated Audio Tracks**: Synchronized with high-resolution artwork, narrative notes, quotes, scrub bar, and live track timing.
+- **Dock Thumbnail Rail**: Interactive glassmorphic carousel showing all 14 albums with tilt angles and playing progress bars.
 - **Responsive Architecture**: Smooth touch interactions on mobile devices with iOS safe area handling.
 
 ---

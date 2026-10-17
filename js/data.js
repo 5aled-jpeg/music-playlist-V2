@@ -220,7 +220,7 @@ const discsData = [
     "art": "./songs/photo_14.jpg",
     "thumb": "./songs/photo_14.jpg",
     "audio": "./songs/Tyga - Taste.mp3",
-    "message": "Catchy basslines and breezy summer party memories.",
+    "message": "Catchy basslines and breezy summer party vibes.",
     "quote": "Slide on a pimp at night... Ice water turn around and look at the ice.",
     "side": "Side B",
     "year": "2018"
